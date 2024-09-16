@@ -5,3 +5,4 @@
  Click to shoot, after 6 shots you must reload
  Press R to reset level upon dying
  Press Escape to skip level
+https://github.com/ZenseiPaq/FS-NicolasPaquette
